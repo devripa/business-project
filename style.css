@@ -256,7 +256,7 @@ text-decoration: none;
     /* grid-template-columns: 1fr 1fr; */
     grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
     grid-gap:50px;
-    padding-left: 20px;
+    padding-left: 5px;
     margin: 100px;
 }
 .laft_site h2{
