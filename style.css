@@ -658,6 +658,59 @@ text-decoration: none;
     color: #000;
     padding-bottom: 15px;
 }
+.contact_bg{
+    background-color: rgb(247, 247, 247);
+}
+
+.heading_from{
+    text-align: center;
+    padding-top: 120px;
+    font-size: 20px;
+    font-weight: 600;
+
+    
+}
+.contact_from{
+   padding: 50px 200px 120px 200px;
+
+}
+.from input{
+    padding: 10px 10px;
+}
+.from{
+  display: grid; 
+  gap:30px;
+  grid-template-columns: 1fr 1fr;
+}
+ .from input{
+    width: 100%;
+   
+}
+.subject input{
+    width: 100%;
+    padding: 10px 10px;
+    margin: 20px 0;
+}
+.textarea textarea{
+    width: 100%;
+    resize: none;
+    padding: 30px 10px;
+}
+.btn{
+   text-align: center;
+}
+.btn button{
+    padding: 10px 40px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: #095dc7;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+}
+.google_map iframe{
+width: 100%;
+}
 
 
 
@@ -714,7 +767,6 @@ text-decoration: none;
         margin: 0 20px 0 0;
         font-size: 10px;    
     }
-   
     .left1 h2{
         font-size: 20px;
         
